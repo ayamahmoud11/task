@@ -1,0 +1,19 @@
+.photo {
+    margin: auto;
+    width: auto;
+    height: 250;
+    background-color: blue;
+}
+
+.photo>div {
+    margin: auto;
+    text-align: center;
+    background-color: red;
+    width: 500px;
+    height: 250px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
